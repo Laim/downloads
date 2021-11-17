@@ -1,2 +1,2 @@
 # downloads
-Download Repo for https://laim.scot
+Download Repo for [laim.scot](https://laim.scot)
